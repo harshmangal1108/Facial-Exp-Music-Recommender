@@ -1,2 +1,2 @@
 # Facial-Exp-Music-Recommender
-Project on Facial expression detection
+Project which recommend the music on the basis of facial expression
